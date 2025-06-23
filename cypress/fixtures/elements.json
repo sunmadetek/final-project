@@ -1,0 +1,10 @@
+{
+    "loginPage":{
+        "userNameField": "input#username",
+        "passwordField": "input#password"
+    },
+
+    "dashboardPage":{
+        "welcomeText": "div h1"
+    }
+}
